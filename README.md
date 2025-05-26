@@ -7,7 +7,7 @@
 🛠️ Technologies & Tools
 Languages: Python, Java, SQL
 
-Data Science: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+Data Science: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn,PowerBI
 
 Machine Learning: TensorFlow, Keras
 
